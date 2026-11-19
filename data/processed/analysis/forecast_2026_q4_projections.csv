@@ -1,0 +1,4 @@
+Traffic Domain,Metric,2026 Q1 Actual,2026 Q2 Actual,2026 Q3 Actual,2026 Q1–Q3 Subtotal (Actual),2026 Q4 Point Forecast (Projected),95% CI Lower Bound,95% CI Upper Bound,2026 Full-Year Projected Total,2025 Full-Year Actual Total,Full-Year YoY Projected Growth (%),Forecast Status,Forecast Method
+Passenger Traffic,pax_total,5558112.0,7178470.0,4048248.0,16784830.0,5294524,3599407,6989641,22079354,22051885.0,0.12,Estimated (Unreported Q4 Projected),Balanced Ensemble (Naive Seasonal + Decomposition)
+RoRo Vehicle Traffic,roro_total,915404.0,970743.0,789946.0,2676093.0,898518,769909,1027127,3574611,3618873.0,-1.22,Estimated (Unreported Q4 Projected),Balanced Ensemble (Naive Seasonal + Decomposition)
+Vessel Ship Calls,ship_total,38749.0,38032.0,31672.0,108453.0,36532,29119,43945,144985,151443.0,-4.26,Estimated (Unreported Q4 Projected),Balanced Ensemble (Naive Seasonal + Decomposition)

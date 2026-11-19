@@ -1,0 +1,12 @@
+# SeaMetrics - Luzon Maritime Analytics & Forecasting Platform
+# Core Application Runtime Dependencies
+streamlit>=1.40.0,<=1.66.1
+pandas>=2.2.0,<=3.1.1
+numpy>=1.26.0,<=2.4.6
+plotly>=5.24.0,<=7.1.0
+openpyxl>=3.1.2
+
+# Document & Research Paper Generation (Offline Utilities)
+python-docx>=1.1.0
+reportlab>=4.0.0
+pypdf>=5.0.0

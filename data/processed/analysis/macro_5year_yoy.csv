@@ -1,0 +1,7 @@
+year,pax_total,ship_total,roro_total,coverage_status,pax_yoy_abs,pax_yoy_pct,ship_yoy_abs,ship_yoy_pct,roro_yoy_abs,roro_yoy_pct,pax_per_ship,roro_per_ship
+2019,,,,CY 2019 (Vol 2 Commodity Only - Traffic Unreported),,,,,,,,
+2022,12319304.0,99862.0,2383204.0,Q1–Q3 (Matching Baseline),,,,,,,123.4,23.9
+2023,14461806.0,102735.0,2355211.0,Q1–Q3 (Matching Baseline),2142502.0,17.39,2873.0,2.88,-27993.0,-1.17,140.8,22.9
+2024,16493372.0,109448.0,2554661.0,Q1–Q3 (Matching Baseline),2031566.0,14.05,6713.0,6.53,199450.0,8.47,150.7,23.3
+2025,17013983.0,115403.0,2717833.0,Q1–Q3 (Matching Baseline),520611.0,3.16,5955.0,5.44,163172.0,6.39,147.4,23.6
+2026,16784830.0,108453.0,2676093.0,Q1–Q3 Partial (Actual),-229153.0,-1.35,-6950.0,-6.02,-41740.0,-1.54,154.8,24.7

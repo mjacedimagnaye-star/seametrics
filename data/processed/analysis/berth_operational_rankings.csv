@@ -1,0 +1,21 @@
+port_name,pmo,port_category,pax_total_2025_q1_q3,ship_total_2025_q1_q3,roro_total_2025_q1_q3,pax_total_2026_q1_q3,ship_total_2026_q1_q3,roro_total_2026_q1_q3,pax_diff,pax_pct
+Batangas Ro-Ro,PMO Batangas,berth_or_facility,3232274.0,15043.0,686101.0,3334612.0,14450.0,683803.0,102338.0,3.17
+TP Matnog Ro-Ro,PMO Bicol,terminal_port,1531033.0,6621.0,373217.0,1529022.0,6150.0,340291.0,-2011.0,-0.13
+TP Balanacan Ro-Ro,PMO Marinduque/Quezon,terminal_port,697078.0,3463.0,161806.0,694852.0,3126.0,141246.0,-2226.0,-0.32
+TP Abra de Ilog Ro-Ro,PMO Mindoro,terminal_port,644710.0,3898.0,178768.0,623722.0,3636.0,172080.0,-20988.0,-3.26
+TP Tabaco Ro-Ro,PMO Bicol,terminal_port,462535.0,1786.0,63538.0,477149.0,1770.0,65138.0,14614.0,3.16
+Batangas,PMO Batangas,berth_or_facility,651323.0,5196.0,0.0,445410.0,3111.0,0.0,-205913.0,-31.61
+TP Roxas Ro-Ro,PMO Mindoro,terminal_port,454214.0,2541.0,109819.0,382940.0,2598.0,109039.0,-71274.0,-15.69
+TP Puerto Galera,PMO Mindoro,terminal_port,341950.0,2845.0,0.0,363351.0,2191.0,0.0,21401.0,6.26
+TP Pio Duran Ro-Ro,PMO Bicol,terminal_port,324669.0,1550.0,71403.0,343097.0,1807.0,76416.0,18428.0,5.68
+Private Ports,PMO Masbate,private_port,274352.0,1937.0,53516.0,309680.0,1902.0,49070.0,35328.0,12.88
+TP Romblon Ro-Ro,PMO Batangas,terminal_port,249610.0,1600.0,25476.0,276912.0,1473.0,25377.0,27302.0,10.94
+TP Tablas Ro-Ro,PMO Batangas,terminal_port,267677.0,663.0,18201.0,250539.0,640.0,17372.0,-17138.0,-6.4
+TP Coron,PMO Palawan,terminal_port,164547.0,2564.0,0.0,186115.0,3597.0,0.0,21568.0,13.11
+BP Calapan (Conventional Berth),PMO Mindoro,base_port,426468.0,2191.0,0.0,172918.0,790.0,0.0,-253550.0,-59.45
+TP San Pascual Ro-Ro,PMO Masbate,terminal_port,92635.0,452.0,10187.0,112440.0,494.0,10693.0,19805.0,21.38
+TP Puerto Galera Ro-Ro,PMO Mindoro,terminal_port,101488.0,359.0,16594.0,107003.0,347.0,17851.0,5515.0,5.43
+BP Masbate (Conventional Berth),PMO Masbate,base_port,196302.0,1846.0,0.0,97445.0,702.0,0.0,-98857.0,-50.36
+TP Coron Ro-Ro,PMO Palawan,terminal_port,133398.0,837.0,519.0,96763.0,418.0,798.0,-36635.0,-27.46
+TP Bulan Ro-Ro,PMO Bicol,terminal_port,98472.0,697.0,18325.0,96524.0,619.0,13468.0,-1948.0,-1.98
+BP Legazpi (Conventional Berth),PMO Bicol,base_port,94116.0,465.0,0.0,87856.0,523.0,0.0,-6260.0,-6.65
